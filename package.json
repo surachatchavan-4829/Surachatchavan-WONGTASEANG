@@ -1,0 +1,39 @@
+{
+  "name": "myproj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.3",
+    "@google/generative-ai": "^0.24.1",
+    "@react-native-async-storage/async-storage": "^1.24.0",
+    "@react-navigation/bottom-tabs": "^7.7.2",
+    "@react-navigation/native": "^7.1.19",
+    "@react-navigation/native-stack": "^7.6.1",
+    "expo": "~57.0.24",
+    "expo-camera": "~57.0.5",
+    "expo-file-system": "~57.0.7",
+    "expo-font": "~57.0.4",
+    "expo-image-manipulator": "~57.0.19",
+    "expo-image-picker": "~57.0.19",
+    "expo-sharing": "~57.0.21",
+    "expo-status-bar": "~57.0.1",
+    "firebase": "^12.5.0",
+    "firebase-functions": "^6.6.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-element-dropdown": "^2.12.4",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-screens": "~4.26.0",
+    "react-native-swiper": "^1.6.0",
+    "react-native-vision-camera": "^4.7.3",
+    "react-native-web": "^0.21.0"
+  },
+  "private": true
+}
